@@ -1,1 +1,77 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f7f4ee;
+  color: #2d2d2d;
+  text-align: center;
+}
 
+.hero {
+  padding: 80px 20px;
+}
+
+.logo {
+  width: 90px;
+  margin-bottom: 20px;
+}
+
+.tagline {
+  color: #6f9b7a;
+}
+
+.subtext {
+  max-width: 600px;
+  margin: 0 auto 30px;
+}
+
+.primary-btn {
+  padding: 14px 30px;
+  background: #6f9b7a;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+.divider {
+  width: 60px;
+  height: 1px;
+  background: #ddd;
+  margin: 50px auto;
+}
+
+.section {
+  padding: 0 20px 80px;
+}
+
+.box {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 50px 30px;
+  border-radius: 20px;
+}
+
+.belief-box {
+  background: #eef6f1;
+}
+
+.belief-line {
+  font-size: 22px;
+  margin: 16px 0;
+}
+
+.secondary-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 26px;
+  border: 1px solid #6c8fa3;
+  color: #6c8fa3;
+  border-radius: 25px;
+  text-decoration: none;
+}
+
+footer {
+  padding: 40px 20px;
+  font-size: 14px;
+  opacity: 0.7;
+}
